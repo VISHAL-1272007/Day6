@@ -1,0 +1,10 @@
+def fuction():
+    print("vishal")
+    num_char =len("vishal")
+    print(num_char)
+fuction()
+fuction()
+fuction()
+fuction()
+fuction()
+fuction()
